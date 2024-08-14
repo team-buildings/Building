@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Arial';
+    src: url('/static/fonts/arial.ttf');
+}
+
+/* body {
+    font-family: 'Arial', sans-serif;
+} */
+
+tr {
+    background-color: aqua;
+}
